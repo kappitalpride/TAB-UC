@@ -17,8 +17,6 @@ namespace ILikeMemes
         public Player_ESP playerESP;
         public Advanced adv;
 
-        public Vector2 scrollPosition = Vector2.zero;
-
         public bool crosshair;
 
         void Start()
